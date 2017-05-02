@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Monica Labbao",
+    "label": "Android Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA1-AAAAJDU5YzI3NDBlLTg1YTUtNDZhMS1hMzdmLTQyMDAwMGFmZGEzYg.jpg",
+    "email": "malabbao@rogomi.com",
+    "phone": "Available upon request"
+  },
+  "education": [{
+    "institution": "University of the East",
+    "course": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2009",
+    "endDate": "2014"
+  }],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies":[{
+        "name": "Java",
+        "number_of_years": 4
+      }, {
+        "name": "XML",
+        "number_of_years": 3
+      }, {
+        "name": "C#",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Third-Party Libraries",
+      "technologies":[{
+        "name": "Realm.io",
+        "number_of_years": 2
+      }, {
+        "name": "Butterknife",
+        "number_of_years": 2
+      },{
+        "name": "Parse Android SDK",
+        "number_of_years": 1
+      }, {
+        "name": "GreenDAO",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Databases",
+      "technologies":[{
+        "name": "SQLite",
+        "number_of_years": 2
+      }, {
+        "name": "MySQL",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Version Control",
+      "technologies":[{
+        "name": "Git",
+        "number_of_years": 2
+      }, {
+        "name": "SVN",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Integrated Development Environment",
+      "technologies":[{
+        "name": "Android Studio",
+        "number_of_years": 3
+      }, {
+        "name": "Eclipse",
+        "number_of_years": 2
+      }]
+    },{
+      "category": "Software Design Patterns and Methodologies",
+      "technologies":[{
+        "name": "Model-View-Presenter Architecture",
+        "number_of_years": 1
+      }, {
+        "name": "Kanban",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Operating System",
+      "technologies":[{
+        "name": "Linux",
+        "number_of_years": 3
+      }, {
+        "name": "Mac OS",
+        "number_of_years": 2
+      }]
+    },{
+      "category": "Web Services",
+      "technologies":[{
+        "name": "Parse",
+        "number_of_years": 1
+      },{
+        "name": "Crashlytics",
+        "number_of_years": 1
+      },{
+        "name": "Stripe API",
+        "number_of_years": 1
+      },{
+        "name": "Dragonpay",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Other",
+      "technologies":[{
+        "name": "Gradle",
+        "number_of_years": 2
+      }]
+    }
+  ],
+  "work": [{
+    "company": "Rogomi Inc.",
+    "position": "Mobile Engineer",
+    "startDate": "Jun 2016",
+    "endDate": "Present",
+    "summary": "Write and maintain mobile applications with a team. Implement functionalities laid down by client through the project manager. Provide fixes to errors",
+    "highlights": [],
+    "projects":[
+      {
+        "name":"ShApp4Points",
+        "description":"An e-commerce application that lets consumers record their purchases in exchange for rewards, answer surveys regarding their consumer habits. We were tasked with developing the core features such as purchases, surveys, usages, and rewards.",
+        "role":"Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Android, Crashlytics, Parse"
+      },{
+        "name":"Zukii Rider",
+        "description":"A mobile application for a Zukii Merchant's riders to help manage their deliveries to consumers. Tasks include bug fixes, UI fixes, writing instrumentation tests, and implementing patches.",
+        "role":"Developer",
+        "startDate":"2017",
+        "endDate":"Present",
+        "technologies":"Android, Crashlytics"
+      },{
+        "name":"Gift-It",
+        "description":"A mobile application that helps users plan gifts for one another. Users can select a variety of items that they can pay for and give as a gift to others.",
+        "role":"Developer",
+        "startDate":"2016",
+        "endDate":"2017",
+        "technologies":"Android, Stripe API, Dragonpay"
+      },{
+        "name":"Unilab Babybook",
+        "description":"A mobile application designed for mothers to connect with doctors and help manage their chidlren's health and meds. Was tasked to fix a couple of bugs and to implement Google Analytics.",
+        "role":"Developer",
+        "startDate":"2017",
+        "endDate":"2017",
+        "technologies":"Android, Google Analytics"
+      }
+    ]
+  },{
+    "company": "JIMAC Inc",
+    "position": "Junior Programmer",
+    "startDate": "Jun 2015",
+    "endDate": "Dec 2015",
+    "summary": "Develop for, and help define the user experience of point-of-sale systems for the Android platform",
+    "highlights": [],
+    "projects":[{
+      "name":"TS Ceres",
+      "description":"Point-of sale system for fastfood restaurants, made available in Android. We redesigned the interaction to fully utilize the Android platform. BIR Accreditation #: 039-002705362-000006-59224",
+      "role":"Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android, PHP, Palapa Web Server, SQL Server, Stored Procedures"
+    },{
+      "name":"RDMS Mobile",
+      "description":"Point-of sale system designed for mom-and-pop convenience stores. In this project we ported the desktop RDMS to the Android platform and redesigned the interaction to take advantage of the platform.",
+      "role":"Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android, PHP, Palapa Web Server, SQL Server, Stored Procedures"
+    },{
+      "name":"TS Bacchus",
+      "description":"Point-of sale system for restaurants. I did a handful of bug fixes.",
+      "role":"Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android, PHP, SQLite"
+    }]
+  },{
+    "company": "MNet IT Training Solutions",
+    "position": "Intern, IT Infrastructure Developer",
+    "startDate": "Nov 2013",
+    "endDate": "Sep 2014",
+    "summary": "A mainly admin position. As intern, I did random IT and support jobs such as resetting routers and providing support to registrants. When I was promoted my responsibilities expanded to mainly supervising interns, designing internal management tools, and mentoring work",
+    "highlights": [],
+    "projects":[
+      {
+        "name":"Trainee Attendance System",
+        "description":"An attendance system for MNet's trainees. Supervised the development of the attendee management system.",
+        "role":"Project Manager",
+        "startDate":"2014",
+        "endDate":"2014",
+        "technologies":"Visual Studio.NET, SQL Server"
+      }
+    ]
+  }
+  ],
+  "certification": []
+}
