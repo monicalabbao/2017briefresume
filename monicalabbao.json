@@ -46,6 +46,7 @@
         "role":"Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(9 months)",
         "technologies":"Android, Crashlytics, Parse SDK"
       },{
         "name":"Zukii Rider",
@@ -53,6 +54,7 @@
         "role":"Developer",
         "startDate":"2017",
         "endDate":"Present",
+        "months":"(3 months)",
         "technologies":"Android, Crashlytics, Espresso, JUnit"
       },{
         "name":"Gift-It",
@@ -60,6 +62,7 @@
         "role":"Developer",
         "startDate":"2016",
         "endDate":"2017",
+        "months":"(3 months)",
         "technologies":"Android, Stripe API, Dragonpay"
       },{
         "name":"Unilab Babybook",
@@ -67,6 +70,7 @@
         "role":"Developer",
         "startDate":"2017",
         "endDate":"2017",
+        "months":"(1 month)",
         "technologies":"Android, Google Analytics"
       }
     ]
@@ -83,6 +87,7 @@
       "role":"Developer",
       "startDate":"2015",
       "endDate":"2015",
+      "months":"(6 months)",
       "technologies":"Android, PHP, Palapa Web Server, SQL Server, Stored Procedures"
     },{
       "name":"RDMS Mobile",
@@ -90,6 +95,7 @@
       "role":"Developer",
       "startDate":"2015",
       "endDate":"2015",
+      "months":"(5 months)",
       "technologies":"Android, PHP, Palapa Web Server, SQL Server, Stored Procedures"
     },{
       "name":"TS Bacchus",
@@ -97,6 +103,7 @@
       "role":"Developer",
       "startDate":"2015",
       "endDate":"2015",
+      "months":"(1 month)",
       "technologies":"Android, PHP, SQLite"
     }]
   },{
@@ -113,6 +120,7 @@
         "role":"Project Manager",
         "startDate":"2014",
         "endDate":"2014",
+        "months":"(3 months)",
         "technologies":"Visual Studio.NET, SQL Server"
       }
     ]
