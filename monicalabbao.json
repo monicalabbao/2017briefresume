@@ -6,6 +6,7 @@
     "email": "malabbao@rogomi.com",
     "phone": "Available upon request"
   },
+  "volunteer": [],
   "education": [{
     "institution": "University of the East",
     "course": "Computer Science",
@@ -15,96 +16,18 @@
   }],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "Core Competencies",
       "technologies":[{
         "name": "Java",
         "number_of_years": 4
       }, {
-        "name": "XML",
+        "name": "Android SDK",
         "number_of_years": 3
       }, {
         "name": "C#",
         "number_of_years": 1
-      }]
-    },{
-      "category": "Third-Party Libraries",
-      "technologies":[{
-        "name": "Realm.io",
-        "number_of_years": 2
-      }, {
-        "name": "Butterknife",
-        "number_of_years": 2
       },{
-        "name": "Parse Android SDK",
-        "number_of_years": 1
-      }, {
-        "name": "GreenDAO",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Databases",
-      "technologies":[{
-        "name": "SQLite",
-        "number_of_years": 2
-      }, {
-        "name": "MySQL",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Version Control",
-      "technologies":[{
         "name": "Git",
-        "number_of_years": 2
-      }, {
-        "name": "SVN",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Integrated Development Environment",
-      "technologies":[{
-        "name": "Android Studio",
-        "number_of_years": 3
-      }, {
-        "name": "Eclipse",
-        "number_of_years": 2
-      }]
-    },{
-      "category": "Software Design Patterns and Methodologies",
-      "technologies":[{
-        "name": "Model-View-Presenter Architecture",
-        "number_of_years": 1
-      }, {
-        "name": "Kanban",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Operating System",
-      "technologies":[{
-        "name": "Linux",
-        "number_of_years": 3
-      }, {
-        "name": "Mac OS",
-        "number_of_years": 2
-      }]
-    },{
-      "category": "Web Services",
-      "technologies":[{
-        "name": "Parse",
-        "number_of_years": 1
-      },{
-        "name": "Crashlytics",
-        "number_of_years": 1
-      },{
-        "name": "Stripe API",
-        "number_of_years": 1
-      },{
-        "name": "Dragonpay",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Other",
-      "technologies":[{
-        "name": "Gradle",
         "number_of_years": 2
       }]
     }
@@ -123,14 +46,14 @@
         "role":"Developer",
         "startDate":"2016",
         "endDate":"Present",
-        "technologies":"Android, Crashlytics, Parse"
+        "technologies":"Android, Crashlytics, Parse SDK"
       },{
         "name":"Zukii Rider",
         "description":"A mobile application for a Zukii Merchant's riders to help manage their deliveries to consumers. Tasks include bug fixes, UI fixes, writing instrumentation tests, and implementing patches.",
         "role":"Developer",
         "startDate":"2017",
         "endDate":"Present",
-        "technologies":"Android, Crashlytics"
+        "technologies":"Android, Crashlytics, Espresso, JUnit"
       },{
         "name":"Gift-It",
         "description":"A mobile application that helps users plan gifts for one another. Users can select a variety of items that they can pay for and give as a gift to others.",
@@ -158,22 +81,22 @@
       "name":"TS Ceres",
       "description":"Point-of sale system for fastfood restaurants, made available in Android. We redesigned the interaction to fully utilize the Android platform. BIR Accreditation #: 039-002705362-000006-59224",
       "role":"Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015",
       "technologies":"Android, PHP, Palapa Web Server, SQL Server, Stored Procedures"
     },{
       "name":"RDMS Mobile",
       "description":"Point-of sale system designed for mom-and-pop convenience stores. In this project we ported the desktop RDMS to the Android platform and redesigned the interaction to take advantage of the platform.",
       "role":"Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015",
       "technologies":"Android, PHP, Palapa Web Server, SQL Server, Stored Procedures"
     },{
       "name":"TS Bacchus",
       "description":"Point-of sale system for restaurants. I did a handful of bug fixes.",
       "role":"Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015",
       "technologies":"Android, PHP, SQLite"
     }]
   },{
